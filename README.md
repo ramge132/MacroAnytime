@@ -7,6 +7,11 @@
 - 예약 시간 지정
 - 키보드 및 마우스 시퀀스 설정
 - 직관적 UI
-
+   
+   
 ![image](https://github.com/user-attachments/assets/b168c404-3bf9-489c-81b2-7748186e553a)
 
+
+
+## Download
+[exe 파일 다운 링크](https://drive.google.com/file/d/1yqearKet3ObUuoqhBHuh5JPVJe6LATQu/view?usp=sharing)
